@@ -10,7 +10,7 @@ pointsize = 30
 fillcolor = "white"
 shadowcolor = "black"
 
-text = "bordered text."
+text = "this is bordered text."
 
 font = ImageFont.truetype("utils/Futura.ttc",60)
 draw = ImageDraw.Draw(im)
